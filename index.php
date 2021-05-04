@@ -27,7 +27,7 @@ require get_template_directory() . '/inc/section_vars.php';
                         <div class="card__details">
                           <ul>
                             <li>AverageMaxBarrelSpeed: 62.7 mph</li>
-                            <li>AverageMaxHandSpeed: 60 mph</li>
+                            <li>AverageMaxHandSpeed: 32 mph</li>
                             <li>AverageAttackAngle: 24 degrees</li>
                           </ul>
                         </div>
@@ -58,7 +58,7 @@ require get_template_directory() . '/inc/section_vars.php';
                         <div class="card__details">
                           <ul>
                             <li>AverageMaxBarrelSpeed: 87 mph</li>
-                            <li>AverageMaxHandSpeed: 92 mph</li>
+                            <li>AverageMaxHandSpeed: 38 mph</li>
                             <li>AverageAttackAngle: 21 degrees</li>
                           </ul>
                         </div>
@@ -89,7 +89,7 @@ require get_template_directory() . '/inc/section_vars.php';
                         <div class="card__details">
                           <ul>
                             <li>AverageMaxBarrelSpeed: 99 mph</li>
-                            <li>AverageMaxHandSpeed: 92.4 mph</li>
+                            <li>AverageMaxHandSpeed: 37 mph</li>
                             <li>AverageAttackAngle: 23 degrees</li>
                           </ul>
                         </div>
@@ -119,7 +119,7 @@ require get_template_directory() . '/inc/section_vars.php';
                         <div class="card__details">
                           <ul>
                             <li>AverageMaxBarrelSpeed: 84.1 mph</li>
-                            <li>AverageMaxHandSpeed: 78 mph</li>
+                            <li>AverageMaxHandSpeed: 37 mph</li>
                             <li>AverageAttackAngle: 19 degrees</li>
                           </ul>
                         </div>
@@ -150,7 +150,7 @@ require get_template_directory() . '/inc/section_vars.php';
                         <div class="card__details">
                           <ul>
                             <li>AverageMaxBarrelSpeed: 90.2 mph</li>
-                            <li>AverageMaxHandSpeed: 78 mph</li>
+                            <li>AverageMaxHandSpeed: 32 mph</li>
                             <li>AverageAttackAngle: 18.5 degrees</li>
                           </ul>
                         </div>
@@ -180,7 +180,7 @@ require get_template_directory() . '/inc/section_vars.php';
                         <div class="card__details">
                           <ul>
                             <li>AverageMaxBarrelSpeed: 93.6 mph</li>
-                            <li>AverageMaxHandSpeed: 78 mph</li>
+                            <li>AverageMaxHandSpeed: 36 mph</li>
                             <li>AverageAttackAngle: 22.2 degrees</li>
                           </ul>
                         </div>
