@@ -5,17 +5,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Example Website Title</title>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <script src="https://kit.fontawesome.com/bdd89edb33.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" />
+  <title>Baseball Cards</title>
 </head>
 <body>
-<!-- Example navbar -->
-  <div id="menu">
-    <?php  
-    $args = array(
-      "theme_location" => "primary",
-      "container" => "ul",
-      "menu_class" => "nav-links"
-    );
-    wp_nav_menu( $args);
-    ?>
-  </div>
+<div class="header">
+<img src="<?php echo get_template_directory_uri() . '/images/diamond-kinetics@2x.png'?>"/>
+
+</div>
+
